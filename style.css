@@ -1,0 +1,50 @@
+.body{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar{
+  height: 57px;
+  width: 100%;
+  background-color: rgb(192, 192, 192);
+  margin: 0;
+  padding: 0;
+  border-bottom: 3px solid white;
+}
+
+#logo-text{
+  display: block;
+  font-family: Arial;
+  font-size: 50px;
+  font-style: normal;
+  text-align: center;
+  color: rgb(65, 64, 64);
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar a:hover{
+  background-color: rgba(79, 159, 224, 0.603);
+  border-bottom: 3px solid rgba(86, 108, 236, 0.507);
+}
+
+#logo-text:hover{
+  color: rgb(19, 15, 73);
+}
+
+.text{
+  display: block;
+  font-family: Arial;
+  font-size: 10px;
+  font-style: normal;
+  text-align: center;
+  color: rgb(105, 132, 192);
+  margin: 0;
+  padding: 0;
+}
+
+#map{
+height: 1000px;
+width: 100%;
+}
